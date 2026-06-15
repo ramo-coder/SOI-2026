@@ -54,6 +54,16 @@ AWS means
 - [ ] Amazon Web Store
 - [ ] Amazon Web Series
 
+Table
+
+|Name|College|Department|
+|----|---|---|
+|Ramo|APSSDC|AWS|
+|----|---|---|
+|ram|KEC|CSE|
+
+
+
 ---
 [^1]:Thankful
 [^2]:Sadness
