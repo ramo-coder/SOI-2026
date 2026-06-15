@@ -34,4 +34,17 @@ print(a+b)
 
 ![Image](https://static.wikia.nocookie.net/glad-you-came/images/a/a2/Zoro.png/revision/latest?cb=20230710081928)
 
+Ordered List
+1. first
+2. secound
+3. third
+
+Unorder List
+- first
+- secound
++ third
++ fourth
+
+
+
 
