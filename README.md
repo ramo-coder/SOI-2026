@@ -24,3 +24,11 @@ ramo <sub>APSSDC</sub>
 
 This is the `git commands` markdown script
 
+```
+a=1
+b=2
+print(a+b)
+```
+
+
+
