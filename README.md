@@ -50,7 +50,7 @@ Greatful[^1]
 Sorrowful[^2]
 
 AWS means
-- [ ] Amazon Web Services
+- [X] Amazon Web Services
 - [ ] Amazon Web Store
 - [ ] Amazon Web Series
 
