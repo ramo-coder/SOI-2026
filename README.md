@@ -16,5 +16,9 @@
 
 ramo <sub>APSSDC</sub>
 
-(a+b)<sub>2</sub>
+(a+b)<sup>2</sup>
+
+<u>UnderLine</u> or <ins>underline</ins>
+
+> Note: This is markdown script
 
