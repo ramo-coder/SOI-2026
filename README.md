@@ -32,4 +32,6 @@ print(a+b)
 
 [Google](https://www.google.com)
 
+![Image](https://static.wikia.nocookie.net/glad-you-came/images/a/a2/Zoro.png/revision/latest?cb=20230710081928)
+
 
