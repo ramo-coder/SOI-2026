@@ -22,5 +22,5 @@ ramo <sub>APSSDC</sub>
 
 > Note: This is markdown script
 
-This is the 'git commands' markdown script
+This is the `git commands` markdown script
 
